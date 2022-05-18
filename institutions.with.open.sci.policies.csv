@@ -1,0 +1,31 @@
+country,region,city,institution,short.name,community,centre,policy,url,lat,long
+Canada,BC,Vancouver,University of British Columbia,UBC,,TRUE,TRUE,https://open.ubc.ca/about-us/,49.2606052,-123.2481878
+USA,AZ,Tempe,Arizona State University,Arizona State,,,TRUE,https://libguides.asu.edu/openaccess/opendata-science,33.453214,-112.1584615
+USA,TX,Dallas,Southern Methodist University,Southern Methodist Univ,,,TRUE,https://www.smu.edu/dedman/academics/departments/psychology,32.8412178,-96.7867115
+USA,MO,St. Louis,Washington University at St. Louis,WashU,,TRUE,TRUE,https://neurogenomics.wustl.edu/open-science/,38.6487895,-90.3129902
+USA,IN,Bloomington,Indiana University,Indiana Univ,,,TRUE,https://openscholarship.indiana.edu/,39.1784383,-86.5177959
+USA,,Pittsburgh,Carnegie Mellon University,Carnegie Mellon Univ,,TRUE,TRUE,https://www.library.cmu.edu/services/open-science,40.4432027,-79.9450439
+USA,NJ,Princeton,Princeton University,Princeton,,TRUE,TRUE,https://ddss.princeton.edu/resources-services/external-resources,40.3430941,-74.6595532
+Canada,QC,Montreal,McGill University,McGill,TRUE,TRUE,TRUE,https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi,45.5047847,-73.5793451
+USA,CT,Hew Haven,Yale University,Yale,TRUE,TRUE,TRUE,https://yoda.yale.edu/,41.3163244,-72.9245371
+USA,MA,Boston,Harvard University,Harvard,,,TRUE,https://osc.hul.harvard.edu/policies/,42.3770029,-71.1188541
+USA,NH,Durham,University of New Hampshire,UNH,,,TRUE,https://libraryguides.unh.edu/datamanagement/opendata,43.138948,-70.9392192
+UK,,Bristol,University of Bristol,U Bristol,,,TRUE,https://www.researchprofessionalnews.com/rr-news-uk-views-of-the-uk-2019-10-promoting-openness/,51.4584172,-2.6051732
+UK,,Oxford,Oxford University,Oxford,,,TRUE,https://www.ox.ac.uk/research/support-researchers/open-research,51.7548244,-1.269431
+UK,,London,University College London,UCL,,TRUE,TRUE,https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship,51.5245591,-0.1385194
+UK,,Cambridge,University of Cambridge,Cambridge,,,TRUE,https://www.mrc-cbu.cam.ac.uk/openscience/,52.2043468,0.1141571
+Netherlands,,Delft,TU Delft,TU Delft,,,TRUE,http://openscienceguide.tudelft.nl/,51.9968796,4.3660741
+Switzerland,,Zurich,University of Zurich,Uni Zurich,TRUE,TRUE,TRUE,https://www.crs.uzh.ch/en.html,49.829666,4.4638663
+Netherlands,,Amsterdam,VU Amsterdam,VUA,TRUE,,TRUE,https://vu.nl/en/about-vu/more-about/open-science,52.3348499,4.8610512
+Netherlands,,Amsterdam,University of Applied Sciences Amsterdam,UAS Amsterdam,TRUE,,TRUE,https://www.amsterdamuas.com/research/about/open-science/open-science.html,52.3268539,4.91133
+Netherlands,,Amsterdam,University of Amsterdam,Uni Amsterdam,TRUE,,TRUE,https://arils.uva.nl/open-science/open-science.html?cb,52.3558182,4.9535323
+Netherlands,,Utrecht,Utrecht University,Utrecht,TRUE,TRUE,TRUE,https://www.uu.nl/en/research/open-science,52.0851825,5.1735122
+Germany,,Bielefeld,University of Bielefeld,Bielefeld,,TRUE,TRUE,https://www.cit-ec.de/en/open-science/manifesto,52.0371439,8.4926991
+Germany,,Hamburg,Christian-Albrechts-University of Kiel,Kiel,,TRUE,TRUE,https://www.zbw.eu/en/research/science-2-0/,54.3435076,10.1127493
+Germany,,Munich,Ludwig-Maximilians-Universität München,LMU,TRUE,TRUE,TRUE,https://www.osc.uni-muenchen.de/,48.1429012,11.5594319
+Germany,,Berlin,Charité University Hospital,Charité University Hospital,,,TRUE,https://doi.org/10.1371/journal.pbio.3000576,52.4918854,13.2805788
+Germany,,Berlin,Berlin Institute of Health,BIH,,,TRUE,https://doi.org/10.1371/journal.pbio.3000576,52.520611,13.3996757
+Finland,,Helsinki,University of Helsinki,Uni Helsinki,,TRUE,TRUE,https://www.helsinki.fi/en/research/research-integrity/open-science,60.1726347,24.9465626
+Finland,,Fagernäs,University of Eastern Finland,University of Eastern Finland,,,TRUE,https://www.uef.fi/en/open-science,62.8939034,27.6381875
+Japan,,Saitama,RIKEN,RIKEN,,,TRUE,https://metadb.riken.jp/osp/index.html,35.7803773,139.6102283
+New Zeeland,,Otago,University of Otago,Otago,,TRUE,TRUE,https://blogs.otago.ac.nz/openotago/about-openotago/,-45.8646835,170.5122287
